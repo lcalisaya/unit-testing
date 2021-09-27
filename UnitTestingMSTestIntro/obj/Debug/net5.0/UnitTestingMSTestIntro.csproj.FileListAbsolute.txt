@@ -1,0 +1,16 @@
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.exe
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.deps.json
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.runtimeconfig.json
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.runtimeconfig.dev.json
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.dll
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\ref\UnitTestingMSTestIntro.dll
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\bin\Debug\net5.0\UnitTestingMSTestIntro.pdb
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.csproj.AssemblyReference.cache
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.AssemblyInfoInputs.cache
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.AssemblyInfo.cs
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.csproj.CoreCompileInputs.cache
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.dll
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\ref\UnitTestingMSTestIntro.dll
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.pdb
+C:\Users\timea\source\repos\unit-testing\UnitTestingMSTestIntro\obj\Debug\net5.0\UnitTestingMSTestIntro.genruntimeconfig.cache
