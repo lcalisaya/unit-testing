@@ -1,0 +1,11 @@
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.AssemblyInfoInputs.cache
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.AssemblyInfo.cs
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.csproj.CoreCompileInputs.cache
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\bin\Debug\net5.0\UnitTestingXUnitIntro.deps.json
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\bin\Debug\net5.0\UnitTestingXUnitIntro.dll
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\bin\Debug\net5.0\ref\UnitTestingXUnitIntro.dll
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\bin\Debug\net5.0\UnitTestingXUnitIntro.pdb
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.dll
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\ref\UnitTestingXUnitIntro.dll
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.pdb
