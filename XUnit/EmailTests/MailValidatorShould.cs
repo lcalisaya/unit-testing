@@ -1,4 +1,3 @@
-using System;
 using UnitTestingXUnitIntro;
 using Xunit;
 
@@ -46,6 +45,26 @@ namespace EmailTests
 
             //Act
             bool actual = mailValidator.IsValidEmail(emailAddress);
+
+            //Assert
+            Assert.Equal(expected, actual);
+
+        }
+
+        [Theory]
+        [InlineData("maildeprueba@gmail.com", "INBOX")]
+        [InlineData("invalid@invalid.donttrust.com", "SPAM")]
+        [InlineData("invalid.com.@dodgy.com", "SPAM")]
+        [InlineData("ejemplo@ejemplo.gob", "INBOX")]
+        [InlineData("trydata@anothersample.com", "SPAM")]
+        [InlineData("testinxuni@sample.com", "SPAM")]
+        public void IdentifySpam(string emailAddress, string expected)
+        {
+            //Arrange
+            var mailValidator = new MailValidator();
+
+            //Act
+            string actual = mailValidator.IsSpam(emailAddress);
 
             //Assert
             Assert.Equal(expected, actual);
