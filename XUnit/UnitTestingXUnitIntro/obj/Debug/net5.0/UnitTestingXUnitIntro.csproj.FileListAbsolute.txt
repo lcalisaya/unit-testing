@@ -9,3 +9,4 @@ C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\bin\Debug\n
 C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.dll
 C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\ref\UnitTestingXUnitIntro.dll
 C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.pdb
+C:\Users\timea\source\repos\unit-testing\XUnit\UnitTestingXUnitIntro\obj\Debug\net5.0\UnitTestingXUnitIntro.csproj.AssemblyReference.cache

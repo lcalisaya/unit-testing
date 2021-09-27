@@ -70,5 +70,18 @@ namespace EmailTests
             Assert.Equal(expected, actual);
 
         }
+
+        [Fact]
+        public void RaiseErrorWhenEmailIsEmpty()
+        {
+            //Arrange
+            var mailValidator = new MailValidator();
+
+            //Act
+
+            //Assert
+            Assert.Throws<EmailNotProvidedException>(() => mailValidator.IsValidEmail(null));
+
+        }
     }
 }
